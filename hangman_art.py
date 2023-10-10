@@ -54,6 +54,7 @@ stages = ['''
       |
 =========
 ''']
+print(len(stages))
 
 logo = ''' 
  _                                             
